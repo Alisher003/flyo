@@ -1,0 +1,46 @@
+// heading
+.heading-one {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  color: #FFFFFF;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+// text
+.text-one {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #FFFFFF;
+  padding: 0;
+  margin: 0;
+}
+
+// btn
+.btn-one {
+  padding: 19px 95px;
+  background: linear-gradient(138.1deg, #63E1D9 -49.34%, #34A0CD 100%);
+  box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.15925);
+  border-radius: 28px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  transition: 0.7s;
+  color: #FFFFFF;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-one:hover {
+  background: #0b3c39;
+}
